@@ -14,6 +14,9 @@ https://bria.ai/
 ### 🧬 Code
 https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4/tree/main
 
+### 📦 Model
+https://huggingface.co/briaai/RMBG-1.4
+
 ### 🖼 Output
 
 ### 🏢 Sponsor
