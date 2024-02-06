@@ -8,11 +8,11 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/bria-rmbg-jupyter/blob/main/bria_rmbg_jupyter.ipynb) | bria_rmbg_jupyter
 
-### 🌐 Page
-https://bria.ai/
-
 ### 🧬 Code
 https://huggingface.co/spaces/briaai/BRIA-RMBG-1.4/tree/main
+
+### 🌐 Page
+https://bria.ai/
 
 ### 📦 Model
 https://huggingface.co/briaai/RMBG-1.4
